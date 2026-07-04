@@ -14,13 +14,13 @@
 
 آدرس وب سایت: asha-agri.com 
 
-<img width="49%" style="vertical-align: top;" alt="image" src="https://github.com/user-attachments/assets/87e2c00b-f5ba-47d3-8625-e5cad667b28c" />
+<img width="49%" height="500px" style="vertical-align: top;object-fit: cover;" alt="image" src="https://github.com/user-attachments/assets/87e2c00b-f5ba-47d3-8625-e5cad667b28c" />
 
-<img width="49%" style="vertical-align: top;" alt="image" src="https://github.com/user-attachments/assets/429eab97-8f39-4549-a0e0-caba16c35a5c" />
+<img width="49%" height="500px" style="vertical-align: top;object-fit: cover;" alt="image" src="https://github.com/user-attachments/assets/429eab97-8f39-4549-a0e0-caba16c35a5c" />
 
-<img width="49%" style="vertical-align: top;" alt="image" src="https://github.com/user-attachments/assets/31a2ab2b-1f51-454d-a437-ecaf50336c17" />
+<img width="49%" height="500px" style="vertical-align: top;object-fit: cover;" alt="image" src="https://github.com/user-attachments/assets/31a2ab2b-1f51-454d-a437-ecaf50336c17" />
 
-<img width="49%" style="vertical-align: top;" alt="image" src="https://github.com/user-attachments/assets/9e345716-c3fa-48bc-9df3-f12812dd82df" />
+<img width="49%" height="500px" style="vertical-align: top;object-fit: cover;" alt="image" src="https://github.com/user-attachments/assets/9e345716-c3fa-48bc-9df3-f12812dd82df" />
 
 ---
 
@@ -34,13 +34,13 @@
 
 آدرس وب سایت: shavis.ir
 
-<img width="49%" style="vertical-align: top;" alt="image" src="https://github.com/user-attachments/assets/3390ae08-eace-43a4-9c9d-c6c04aa5d7fc" />
+<img width="49%" height="500px" style="vertical-align: top;object-fit: cover;" alt="image" src="https://github.com/user-attachments/assets/3390ae08-eace-43a4-9c9d-c6c04aa5d7fc" />
 
-<img width="49%" style="vertical-align: top;" alt="image" src="https://github.com/user-attachments/assets/72d611b3-07e6-4c85-a81b-733cd68ce28f" />
+<img width="49%" height="500px" style="vertical-align: top;object-fit: cover;" alt="image" src="https://github.com/user-attachments/assets/72d611b3-07e6-4c85-a81b-733cd68ce28f" />
 
-<img width="49%" style="vertical-align: top;" alt="image" src="https://github.com/user-attachments/assets/3873970a-3133-4e3f-bb22-d1244d6b7158" />
+<img width="49%" height="500px" style="vertical-align: top;object-fit: cover;" alt="image" src="https://github.com/user-attachments/assets/3873970a-3133-4e3f-bb22-d1244d6b7158" />
 
-<img width="49%" style="vertical-align: top;" alt="image" src="https://github.com/user-attachments/assets/d631a1c7-ab45-4dd8-9966-5d8c973331c8" />
+<img width="49%" height="500px" style="vertical-align: top;object-fit: cover;" alt="image" src="https://github.com/user-attachments/assets/d631a1c7-ab45-4dd8-9966-5d8c973331c8" />
 
 
 
