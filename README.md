@@ -106,6 +106,9 @@
 
 <img width="49%" alt="image" src="https://github.com/user-attachments/assets/9f441f44-c636-4f10-a56f-badea22ff98e" />
 
+<img  width="49%" alt="image" src="https://github.com/user-attachments/assets/8be89dbb-e882-4c38-9f6f-d232c1931271" />
+
+
 ---
 
 **+ وب سایت مجموعه دیجیتال مارکتینگ و تبلیفات بعلاوه**
